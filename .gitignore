@@ -1,0 +1,9 @@
+.DS_Store
+/.idea
+/plugin.xml
+/web-app/WEB-INF
+/web-app/META-INF
+*.swp
+*.log
+*.iws
+
